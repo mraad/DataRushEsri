@@ -3,10 +3,10 @@ DataRushEsri
 
 [DataRush Spatial Operators](http://thunderheadxpler.blogspot.com/2013/04/bigdata-datarush-workflow-in-arcmap.html)
 
-# Prerequists
+# Prerequisites
 
-This [maven](http://maven.apache.org) project depends on the GIS Tools for Hadoop [Esri geometry API](https://github.com/Esri/geometry-api-java "Esri geometry API").
-You need to clone the project, compile it and copy the jar into you own local maven repo.
+This [maven](http://maven.apache.org) project depends on [Pervasive DataRush SDK](http://bigdata.pervasive.com) and on the GIS Tools for Hadoop [Esri geometry API](https://github.com/Esri/geometry-api-java "Esri geometry API").
+You need to clone the geometry project, compile it and copy the jar into you own local maven repo.
 
     $ cd <your-work-folder>
     $ git clone https://github.com/Esri/geometry-api-java.git
