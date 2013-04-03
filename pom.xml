@@ -88,10 +88,13 @@
             <version>1.9.12</version>
             <scope>compile</scope>
         </dependency>
+        <!--
+        mvn install:install-file -Dfile=esri-geometry-api.jar -DgroupId=com.esri -DartifactId=esri-geometry-api -Dversion=1.0 -Dpackaging=jar -DgeneratePom=true
+        -->
         <dependency>
             <groupId>com.esri</groupId>
             <artifactId>esri-geometry-api</artifactId>
-            <version>0.2</version>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
