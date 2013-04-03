@@ -1,0 +1,4 @@
+DataRushEsri
+============
+
+DataRush Spatial Operator
